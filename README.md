@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Arturs
-#### I ### Hi there 👋, I'm Bhagya Patel
+#### Hi there 👋, I'm Bhagya Patel
 #### An enthusiastic Android Developer
 I love making android applications, I'm also learning Frontend Development using React and I love using new technologies.
 
@@ -18,13 +17,6 @@ Skills: KOTLIN / C++ /  REACT / JS / HTML / CSS
 ![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhagyaspatel&show_icons=true&theme=radical) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyaspatel&layout=compact)
-am GitHub Readme Generator's creator
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 
 
