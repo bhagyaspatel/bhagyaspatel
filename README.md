@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bhagya Patel
+# Hi there 👋, I'm Bhagya Patel
 ### An enthusiastic Android Developer
 I love making android applications, I'm also learning Frontend Development using React and I love using new technologies.
 
