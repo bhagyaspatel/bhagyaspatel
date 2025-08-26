@@ -8,7 +8,7 @@ Skills: KOTLIN / C++ / REACT / JS / HTML / CSS / MONGODB / EXPRESS / NODE.JS
 - 🌱 I’m currently learning Frontend Using React and Backend using Node.JS and MongoDB
 - 👯 I’m looking to collaborate on Android Development & Node.JS
 - 💬 Ask me about Anything you want to know about me🙃 
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/bhagya-patel-9836081b7/'>@BhagyaPatel</a> 
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/bhagya-s-patel/'>@BhagyaPatel</a> 
 - ⚡ Fun fact: I love watching Movies in my free time 
 
 
